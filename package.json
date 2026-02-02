@@ -16,7 +16,7 @@
     "fluent-ffmpeg": "^2.1.3",
     "@ffmpeg-installer/ffmpeg": "^1.1.0"
   },
-  "openclaw": {
+  "moltbot": {
     "extensions": ["./plugin.ts"],
     "channels": ["dingtalk-connector"],
     "installDependencies": true
